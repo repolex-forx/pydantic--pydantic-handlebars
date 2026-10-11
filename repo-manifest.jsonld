@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/pydantic-handlebars/commit/9812951da4fcb56d6beb1c04512e77fe392ac2e4",
       "git:hexsha": "9812951da4fcb56d6beb1c04512e77fe392ac2e4",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.2.1"
     },
     {
