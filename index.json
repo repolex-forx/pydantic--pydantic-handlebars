@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "pydantic-handlebars",
+  "versions": [
+    {
+      "commit": "9812951da4fcb56d6beb1c04512e77fe392ac2e4",
+      "tag": "v0.2.1",
+      "parsed_at": "2026-10-11T19:30:01.318601+00:00"
+    }
+  ]
+}
